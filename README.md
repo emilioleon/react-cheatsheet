@@ -12,5 +12,7 @@
 - [CodePen](https://codepen.io/)
 - [StackBlitz](https://stackblitz.com/)
 - [JSFiddle](https://jsfiddle.net/)
+- [TypeScript Playground](https://www.typescriptlang.org/play)
+- [JSBin](https://jsbin.com/)
 - [CodeShare](https://codeshare.io/)
 - [CodeEnvy](https://codenvy.com/)
