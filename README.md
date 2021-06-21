@@ -16,3 +16,11 @@
 - [JSBin](https://jsbin.com/)
 - [CodeShare](https://codeshare.io/)
 - [CodeEnvy](https://codenvy.com/)
+
+# Frontend Mocking Frameworks
+- [Mirage](https://miragejs.com/)
+- [Mock Service Worker](https://mswjs.io/)
+- [WireMock](http://wiremock.org/)
+
+# Contract Testing
+- [Pact](https://docs.pact.io/)
