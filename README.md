@@ -30,3 +30,6 @@
 
 # React Frameworks
 - [Hydrogen](https://shopify.dev/hydrogen)
+
+# Public APIs
+- [Calendar APIs](https://www.programmableweb.com/news/11-most-popular-calendars-apis/brief/2020/12/31)
