@@ -33,3 +33,17 @@
 
 # Public APIs
 - [Calendar APIs](https://www.programmableweb.com/news/11-most-popular-calendars-apis/brief/2020/12/31)
+
+# Outsourcing
+- [Toptal](https://www.toptal.com/)
+- [Upwork](https://www.upwork.com/)
+- [Freelancer](https://www.freelancer.com/)
+- [PeoplePerHour](https://www.peopleperhour.com/)
+- [Simply Hired](https://www.simplyhired.ca/)
+- [Envato](https://envato.com/)
+- [Guru](https://www.guru.com/)
+- [Fiverr](https://www.fiverr.com/)
+- [Hireable](https://hireable.com/)
+- [6nomads](https://6nomads.com/)
+- [Kadrae](https://kadrae.com/)
+- [TapChief](https://www.tapchief.com/)
