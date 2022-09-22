@@ -1,6 +1,10 @@
+
+# Awesome Dev Tools
+
 [![GitHub Super-Linter](https://github.com/emilioleon/awesome-dev-tools/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-# Infrastructure as a Service
+## Infrastructure as a Service
+
 - [Railway](https://railway.app/)
 - [Fly](https://fly.io/)
 - [Netlify](https://netlify.com)
@@ -9,7 +13,8 @@
 - [Render Cloud](https://render-web.onrender.com/)
 - [Supabase](https://supabase.io/)
 
-# Online Code Editors
+## Online Code Editors
+
 - [CodeSandbox](https://codesandbox.io/)
 - [CodePen](https://codepen.io/)
 - [StackBlitz](https://stackblitz.com/)
@@ -19,32 +24,40 @@
 - [CodeShare](https://codeshare.io/)
 - [CodeEnvy](https://codenvy.com/)
 
-# Frontend Mocking Frameworks
+## Frontend Mocking Frameworks
+
 - [Mirage](https://miragejs.com/)
 - [Mock Service Worker](https://mswjs.io/)
 - [WireMock](http://wiremock.org/)
 
-# Contract Testing
+## Contract Testing
+
 - [Pact](https://docs.pact.io/)
 
-# ES Build Bundlers
+## ES Build Bundlers
+
 - [Vite](https://vitejs.dev/)
 
-# React Frameworks
+## React Frameworks
+
 - [Hydrogen](https://shopify.dev/hydrogen)
 
-# React Documentation Frameworks
+## React Documentation Frameworks
+
 - [Docusaurus from Facebook](https://github.com/facebook/docusaurus)
 - [Doctocat from GitHub](https://github.com/primer/doctocat)
 
-# Design Systems
-- [Primer from GitHub](https://github.com/primer)
-- 
+## Design Systems
 
-# Public APIs
+- [Primer from GitHub](https://github.com/primer)
+-
+
+## Public APIs
+
 - [Calendar APIs](https://www.programmableweb.com/news/11-most-popular-calendars-apis/brief/2020/12/31)
 
-# Outsourcing
+## Outsourcing
+
 - [Toptal](https://www.toptal.com/)
 - [Upwork](https://www.upwork.com/)
 - [Freelancer](https://www.freelancer.com/)
