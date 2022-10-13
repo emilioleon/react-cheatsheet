@@ -34,12 +34,17 @@
 ## SaaS
 
 - [The Twelve-Factor App](https://12factor.net/)
+- [School of SRE](https://github.com/linkedin/school-of-sre)
 
 ## Web Development
 
+- [web.dev](https://web.dev/)
+- [MDN](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
+- [Microsoft Developer](https://developer.microsoft.com/)
+
 ### JavaScript
 
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Parsley](https://parsleyjs.org)
 
 #### Mocking Frameworks
@@ -79,16 +84,11 @@
 
 ### CSS
 
-- [W3Schools](https://www.w3schools.com/css/)
 - [Grid Garden](https://cssgridgarden.com)
 
 #### Design Systems
 
 - [Primer from GitHub](https://github.com/primer)
-
-### HTML
-
-- [W3Schools](https://www.w3schools.com/html/)
 
 ## Public APIs
 
