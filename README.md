@@ -5,6 +5,7 @@
 [![GitHub Super-Linter](https://github.com/emilioleon/awesome-dev-tools/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 Official [React Docs](https://reactjs.org/)
+
 ## Web Development
 
 - [web.dev](https://web.dev/)
@@ -43,8 +44,6 @@ Official [React Docs](https://reactjs.org/)
 
 - [The Twelve-Factor App](https://12factor.net/)
 - [School of SRE](https://github.com/linkedin/school-of-sre)
-
-
 
 ### JavaScript
 
