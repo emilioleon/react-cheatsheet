@@ -16,14 +16,14 @@ Official [React Docs](https://reactjs.org/)
 ## Online Code Editors
 
 - [Codespaces](https://github.com/features/codespaces)
-- [CodeSandbox](https://codesandbox.io/)
-- [CodePen](https://codepen.io/)
-- [StackBlitz](https://stackblitz.com/)
-- [JSFiddle](https://jsfiddle.net/)
-- [TypeScript Playground](https://www.typescriptlang.org/play)
-- [JSBin](https://jsbin.com/)
-- [CodeShare](https://codeshare.io/)
-- [CodeEnvy](https://codenvy.com/)
+- [CodeSandbox](https://github.com/codesandbox/)
+- [CodePen](https://github.com/codepen)
+- [StackBlitz](https://github.com/stackblitz)
+- [JSFiddle](https://github.com/jsfiddle)
+- [JSBin](https://github.com/jsbin)
+- [CodeShare](https://github.com/Codeshare)
+- [Replit](https://github.com/replit)
+- [Theia](https://github.com/eclipse-theia)
 
 ## GitHub
 
