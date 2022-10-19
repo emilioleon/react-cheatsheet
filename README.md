@@ -13,6 +13,25 @@ Official [React Docs](https://reactjs.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [Microsoft Developer](https://developer.microsoft.com/)
 
+## Component Libraries
+
+- [Ant Design](https://github.com/ant-design/ant-design/)
+- [Blueprint](https://github.com/palantir/blueprint)
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+- [Evergreen](https://github.com/segmentio/evergreen)
+- [Grommet](https://github.com/grommet/grommet)
+- [Material UI](https://github.com/mui/material-ui)
+- [Fluent UI](https://github.com/microsoft/fluentui)
+- [Radix UI](https://github.com/radix-ui/primitives)
+- [React Admin](https://github.com/marmelab/react-admin)
+- [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+- [React Suite](https://github.com/rsuite/rsuite)
+- [Rebass](https://github.com/rebassjs/rebass)
+- [Reactstrap](https://github.com/reactstrap/reactstrap)
+- [Semantic UI](https://github.com/Semantic-Org/Semantic-UI-React)
+- [Theme UI](https://github.com/system-ui/theme-ui)
+- [Vechai UI](https://github.com/vechai/vechaiui)
+
 ## Online Code Editors
 
 - [Codespaces](https://github.com/features/codespaces)
