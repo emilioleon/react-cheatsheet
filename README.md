@@ -23,7 +23,7 @@ Official [React Docs](https://reactjs.org/)
 - [Grommet](https://github.com/grommet/grommet)
 - [Material UI](https://github.com/mui/material-ui)
 - [Fluent UI](https://github.com/microsoft/fluentui) by Microsoft
-- [Primer](https://github.com/primer/react) by Github
+- [Primer](https://github.com/primer/react) by GitHub
 - [Radix UI](https://github.com/radix-ui/primitives)
 - [React Admin](https://github.com/marmelab/react-admin)
 - [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
