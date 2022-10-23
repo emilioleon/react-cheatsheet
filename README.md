@@ -30,6 +30,7 @@ Official [React Docs](https://reactjs.org/)
 - [React Suite](https://github.com/rsuite/rsuite)
 - [Rebass](https://github.com/rebassjs/rebass)
 - [Reactstrap](https://github.com/reactstrap/reactstrap)
+- [Ring UI](https://github.com/JetBrains/ring-ui) by JetBrains
 - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI-React)
 - [Theme UI](https://github.com/system-ui/theme-ui)
 - [Vechai UI](https://github.com/vechai/vechaiui)
@@ -78,7 +79,7 @@ Official [React Docs](https://reactjs.org/)
 
 #### Contract Testing
 
-- [Pact](https://docs.pact.io/)
+- [Pact](https://github.com/pact-foundation)
 
 #### Module Bundlers
 
