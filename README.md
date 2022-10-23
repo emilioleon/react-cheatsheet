@@ -17,11 +17,13 @@ Official [React Docs](https://reactjs.org/)
 
 - [Ant Design](https://github.com/ant-design/ant-design/)
 - [Blueprint](https://github.com/palantir/blueprint)
+- [Carbon](https://github.com/carbon-design-system/carbon) by IBM
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
 - [Evergreen](https://github.com/segmentio/evergreen)
 - [Grommet](https://github.com/grommet/grommet)
 - [Material UI](https://github.com/mui/material-ui)
-- [Fluent UI](https://github.com/microsoft/fluentui)
+- [Fluent UI](https://github.com/microsoft/fluentui) by Microsoft
+- [Primer](https://github.com/primer/react) by Github
 - [Radix UI](https://github.com/radix-ui/primitives)
 - [React Admin](https://github.com/marmelab/react-admin)
 - [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
