@@ -97,10 +97,6 @@ Official [React Docs](https://reactjs.org/)
 - [Remix](https://remix.run/)
 - [Shopify's Hydrogen](https://shopify.dev/hydrogen)
 
-#### React Component Libraries
-
-- [Material UI](https://mui.com/core/)
-
 #### React Documentation Frameworks
 
 - [Docusaurus](https://github.com/facebook/docusaurus)
@@ -109,10 +105,6 @@ Official [React Docs](https://reactjs.org/)
 ### CSS
 
 - [Grid Garden](https://cssgridgarden.com)
-
-#### Design Systems
-
-- [Primer from GitHub](https://github.com/primer)
 
 ## Public APIs
 
