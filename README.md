@@ -35,6 +35,11 @@ Official [React Docs](https://reactjs.org/)
 - [Theme UI](https://github.com/system-ui/theme-ui)
 - [Vechai UI](https://github.com/vechai/vechaiui)
 
+## Utility Libraries
+
+- [React Flow](https://github.com/wbkd/react-flow)
+- [Mermaid](https://github.com/mermaid-js/mermaid)
+
 ## Online Code Editors
 
 - [Codespaces](https://github.com/features/codespaces)
@@ -97,10 +102,6 @@ Official [React Docs](https://reactjs.org/)
 - [Remix](https://remix.run/)
 - [Shopify's Hydrogen](https://shopify.dev/hydrogen)
 
-#### React Component Libraries
-
-- [Material UI](https://mui.com/core/)
-
 #### React Documentation Frameworks
 
 - [Docusaurus](https://github.com/facebook/docusaurus)
@@ -109,10 +110,6 @@ Official [React Docs](https://reactjs.org/)
 ### CSS
 
 - [Grid Garden](https://cssgridgarden.com)
-
-#### Design Systems
-
-- [Primer from GitHub](https://github.com/primer)
 
 ## Public APIs
 
