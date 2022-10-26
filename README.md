@@ -35,6 +35,11 @@ Official [React Docs](https://reactjs.org/)
 - [Theme UI](https://github.com/system-ui/theme-ui)
 - [Vechai UI](https://github.com/vechai/vechaiui)
 
+## Utility Libraries
+
+- [React Flow](https://github.com/wbkd/react-flow)
+- [Mermaid](https://github.com/mermaid-js/mermaid)
+
 ## Online Code Editors
 
 - [Codespaces](https://github.com/features/codespaces)
