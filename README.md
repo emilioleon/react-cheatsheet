@@ -67,6 +67,11 @@ Official [React Docs](https://reactjs.org/)
 - [Render Cloud](https://render-web.onrender.com/)
 - [Supabase](https://supabase.io/)
 
+## API
+
+- [Prisma](https://github.com/prisma/prisma)
+- [tRPC](https://github.com/trpc/trpc)
+
 ## SaaS
 
 - [The Twelve-Factor App](https://12factor.net/)
