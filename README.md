@@ -19,11 +19,12 @@ Official [React Docs](https://reactjs.org/)
 - [Blueprint](https://github.com/palantir/blueprint)
 - [Carbon](https://github.com/carbon-design-system/carbon) by IBM
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+- [Elastic UI](https://github.com/elastic/eui)
 - [Evergreen](https://github.com/segmentio/evergreen)
-- [Grommet](https://github.com/grommet/grommet)
-- [Material UI](https://github.com/mui/material-ui)
 - [Fluent UI](https://github.com/microsoft/fluentui) by Microsoft
+- [Grommet](https://github.com/grommet/grommet)
 - [Primer](https://github.com/primer/react) by GitHub
+- [Material UI](https://github.com/mui/material-ui)
 - [Radix UI](https://github.com/radix-ui/primitives)
 - [React Admin](https://github.com/marmelab/react-admin)
 - [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)
@@ -34,11 +35,14 @@ Official [React Docs](https://reactjs.org/)
 - [Semantic UI](https://github.com/Semantic-Org/Semantic-UI-React)
 - [Theme UI](https://github.com/system-ui/theme-ui)
 - [Vechai UI](https://github.com/vechai/vechaiui)
+- [Visx](https://github.com/airbnb/visx/) by Airbnb
 
 ## Utility Libraries
 
 - [React Flow](https://github.com/wbkd/react-flow)
 - [Mermaid](https://github.com/mermaid-js/mermaid)
+- [JSDoc](https://github.com/jsdoc/jsdoc)
+- [Cucumber](https://github.com/cucumber/cucumber-js)
 
 ## Online Code Editors
 
