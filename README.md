@@ -39,6 +39,8 @@ Official [React Docs](https://reactjs.org/)
 
 - [React Flow](https://github.com/wbkd/react-flow)
 - [Mermaid](https://github.com/mermaid-js/mermaid)
+- [JSDoc](https://github.com/jsdoc/jsdoc)
+- [Cucumber](https://github.com/cucumber/cucumber-js)
 
 ## Online Code Editors
 
