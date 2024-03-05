@@ -16,6 +16,7 @@ Official [React Docs](https://reactjs.org/)
 ## Component Libraries
 
 - [Ant Design](https://github.com/ant-design/ant-design/)
+- [AG Grid](http://ag-grid.com)
 - [Blueprint](https://github.com/palantir/blueprint)
 - [Carbon](https://github.com/carbon-design-system/carbon) by IBM
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
@@ -108,6 +109,7 @@ Official [React Docs](https://reactjs.org/)
 
 - [Create React App](https://create-react-app.dev/)
 - [Gatsby](https://www.gatsbyjs.com/)
+- [</> htmx](http://htmx.org)
 - [Next](https://nextjs.org/)
 - [Remix](https://remix.run/)
 - [Shopify's Hydrogen](https://shopify.dev/hydrogen)
