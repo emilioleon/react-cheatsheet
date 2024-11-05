@@ -107,6 +107,7 @@ Official [React Docs](https://reactjs.org/)
 
 #### React Frameworks
 
+- [Astro](https://astro.build/)
 - [Create React App](https://create-react-app.dev/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [</> htmx](http://htmx.org)
